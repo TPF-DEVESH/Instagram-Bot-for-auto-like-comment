@@ -15,9 +15,9 @@ Free scripts,Python base code to Get free followers with our auto like, auto Com
 # How to run the Python script ?
 - Enter CMD 
 - Run: 
-> python [path]\instagramBot.py
+> python [path]\Instagram_auto_Bot.py
 - Example: 
-> python C:\Users\Name\Desktop\instagramBot.py
+> python C:\Users\Name\Desktop\Instagram_auto_Bot.py
 
 
 # If you have problems with your internet connection please increase the sleep size !!
